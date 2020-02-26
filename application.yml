@@ -5,3 +5,4 @@ hystrix:
         isolation:
           thread:
             timeoutInMilliseconds: 20000
+message: "hello from config"
